@@ -1,0 +1,6 @@
+tracking_id,destination,weight_kg,status
+TRK101,Chennai,4.5,Delivered
+TRK102,Bengaluru,12.0,In Transit
+TRK103,Hyderabad,2.1,Delayed
+TRK104,Mumbai,18.5,In Transit
+TRK105,Chennai,6.0,Delayed

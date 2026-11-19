@@ -1,0 +1,7 @@
+DAILY LOGISTICS OPERATIONS SUMMARY
+===================================
+TRK101 -> Chennai | Status: Delivered
+TRK102 -> Bengaluru | Status: In Transit
+TRK103 -> Hyderabad | Status: Delayed
+TRK104 -> Mumbai | Status: In Transit
+TRK105 -> Chennai | Status: Delayed
