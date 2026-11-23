@@ -1,0 +1,10 @@
+tracking_id,origin,destination,weight_kg,shipping_cost,delivery_days,status
+TRK201,Chennai,Bengaluru,4.5,350,2,Delivered
+TRK202,Mumbai,Delhi,15.0,1200,5,Delivered
+TRK203,Chennai,Hyderabad,,420,3,Delayed
+TRK204,Bengaluru,Kolkata,8.2,,4,In Transit
+TRK205,Delhi,Mumbai,12.0,980,,Delivered
+TRK202,Mumbai,Delhi,15.0,1200,5,Delivered
+TRK206,Hyderabad,chennai,3.0,280,2,delivered
+TRK207,Kolkata,Bengaluru,,650,6,Delayed
+TRK208,Chennai,Mumbai,22.5,1850,4,Delivered

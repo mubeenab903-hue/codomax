@@ -1,0 +1,9 @@
+tracking_id,origin,destination,weight_kg,shipping_cost,delivery_days,status,cost_per_kg
+TRK201,Chennai,Bengaluru,4.5,350.0,2.0,Delivered,77.78
+TRK202,Mumbai,Delhi,15.0,1200.0,5.0,Delivered,80.0
+TRK203,Chennai,Hyderabad,10.1,420.0,3.0,Delayed,41.58
+TRK204,Bengaluru,Kolkata,8.2,650.0,4.0,In Transit,79.27
+TRK205,Delhi,Mumbai,12.0,980.0,4.0,Delivered,81.67
+TRK206,Hyderabad,Chennai,3.0,280.0,2.0,Delivered,93.33
+TRK207,Kolkata,Bengaluru,10.1,650.0,6.0,Delayed,64.36
+TRK208,Chennai,Mumbai,22.5,1850.0,4.0,Delivered,82.22
